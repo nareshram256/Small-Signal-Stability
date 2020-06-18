@@ -1,4 +1,4 @@
-# Naresh_111
+# Small Signal Stability POwer system Dynmaics
 
 Python code to small signal stability_Kundur example
 
